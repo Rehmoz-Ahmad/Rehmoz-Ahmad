@@ -19,3 +19,4 @@ Run the following Command on the Terminal
 pip install huggingface_hub
 pip install -r requirements.txt
 
+The Folder Static Contains the Output and Results in the form of Images.
